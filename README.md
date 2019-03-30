@@ -20,8 +20,8 @@ After completing this lesson, participants will be able to:
 Who is this lesson intended for? What interests/skills would they bring? Choose all that apply.
 
 * [ ] Users
-* [ ] Designers
-* [ ] Developers
+* [x] Designers
+* [x] Developers
 * [ ] Speakers
 * [ ] All
 
@@ -29,8 +29,8 @@ Who is this lesson intended for? What interests/skills would they bring? Choose 
 
 How much experience would a participant need to get the most from this lesson?
 
-* [ ] Beginner
-* [ ] Intermediate
+* [x] Beginner
+* [x] Intermediate
 * [ ] Advanced
 * [ ] Any
 
@@ -44,13 +44,13 @@ Which strategies will be used for this lesson plan? Choose all that apply.
 * [ ] Feedback
 * [ ] Lecture (Presentation)
 * [ ] Show & Tell
-* [ ] Tutorial
+* [x] Tutorial
 
 ## Time Estimate (Duration)
 
 How long will it take to teach this lesson (in minutes)?
 
-____ minutes
+45 minutes
 
 ## Prerequisite Skills
 
