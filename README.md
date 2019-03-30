@@ -38,7 +38,7 @@ How much experience would a participant need to get the most from this lesson?
 
 Which strategies will be used for this lesson plan? Choose all that apply.
 
-* [ ] Demonstration
+* [x] Demonstration
 * [ ] Discussion
 * [ ] Exercises
 * [ ] Feedback
@@ -56,8 +56,9 @@ How long will it take to teach this lesson (in minutes)?
 
 Participants will get the most from this lesson if they have familiarity with:
 
-* Skill 1
-* Skill 2
+* Basic knowledge of Gutenberg blocks
+* Experience with HTML and CSS
+* Completed the Basic WordPress Concepts lesson
 
 > _For example:_
 >
